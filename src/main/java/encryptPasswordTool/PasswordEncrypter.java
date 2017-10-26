@@ -1,13 +1,12 @@
-package encryptPasswordTool;
+package main.java.encryptPasswordTool;
 
-import security.Encrypter;
-import security.SecurityConstants;
 
 import java.util.Scanner;
 
-/**
- * Created by Ashutosh Mishra on 6/10/2016.
- */
+import main.java.security.Encrypter;
+import main.java.security.SecurityConstants;
+
+
 public class PasswordEncrypter extends SecurityConstants {
 
     /*

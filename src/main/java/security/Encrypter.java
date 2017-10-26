@@ -1,4 +1,4 @@
-package security;
+package main.java.security;
 
 import org.apache.commons.codec.binary.Base64;
 
